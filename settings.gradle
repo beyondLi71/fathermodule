@@ -1,2 +1,3 @@
 rootProject.name = 'fathermodule'
-
+include 'childeurekamodule'
+include 'childhellomodule'

@@ -1,0 +1,6 @@
+[submodule "childeurekamodule"]
+	path = childeurekamodule
+	url = https://github.com/beyondLi71/childeurekamodule.git
+[submodule "childhellomodule"]
+	path = childhellomodule
+	url = https://github.com/beyondLi71/childhellomodule.git
